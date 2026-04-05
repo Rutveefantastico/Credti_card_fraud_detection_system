@@ -49,6 +49,7 @@ The application is built using:
 
 ## 📁 Project Structure
 ├── app.py
+├── myproject.ipynb
 ├── requirements.txt
 ├── README.md
 
