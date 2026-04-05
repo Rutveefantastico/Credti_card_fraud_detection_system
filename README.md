@@ -5,7 +5,7 @@ A Machine Learning-based web application that detects fraudulent credit card tra
 ---
 
 ## 🚀 Live Demo
-👉 [Click Here to Use the App]([https://credticardfrauddetectionsystem-2m57zgcghnjwp8g2kkcxtz.streamlit.app])
+👉 [Click Here to Use the App](https://credticardfrauddetectionsystem-2m57zgcghnjwp8g2kkcxtz.streamlit.app)
 
 ---
 
